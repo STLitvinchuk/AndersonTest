@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="litvinchuk:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/litvinchuk_jar</output-path>
+    <root id="archive" name="litvinchuk.jar">
+      <element id="module-output" name="litvinchuk" />
+    </root>
+  </artifact>
+</component>
